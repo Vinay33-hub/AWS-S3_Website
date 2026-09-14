@@ -5,11 +5,8 @@ A responsive and visually appealing **Ice Cream Website** developed using HTML, 
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** `YOUR_S3_WEBSITE_URL`
+🔗 **Live Website:** `http://amzn-sever1.s3-website-us-east-1.amazonaws.com/`
 
-> Replace `YOUR_S3_WEBSITE_URL` with your Amazon S3 static website endpoint.
-
----
 
 ## 📌 Project Overview
 
